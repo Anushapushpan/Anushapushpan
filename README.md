@@ -1,12 +1,12 @@
-
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anusha Pushpan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushapushpan&label=Profile%20views&color=0e75b6&style=flat" alt="anushapushpan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Software Engineer @Assuretech
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anushapushpan](https://github.com/Anushapushpan)
 
